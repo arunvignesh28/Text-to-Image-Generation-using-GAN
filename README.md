@@ -19,10 +19,10 @@ The  data is prepared, pre-processed and stored into ./text-to-image directory a
 * The results will be stored to ./Text-to-Image-GAN/train_samples/.
 * If you want to try your own datasets, we encourage to try different hyper-parameters and architectures, especially for more complex datasets like MS-COCO datasets.
 * Inorder to improve the performance of the DCGAN, you can also use other techniques as follows:
-..1. Normalize the inputs
-..2. A modified loss function
-..3. Batch normalization
-..4. Avoid sparse gradients: ReLU, MaxPool
+    * Normalize the inputs
+    * A modified loss function
+    * Batch normalization
+    * Avoid sparse gradients: ReLU, MaxPool
 
 ## SAMPLE INPUT SENTENCES:
 * The flower shown has yellow anther red pistil and bright red petals.
