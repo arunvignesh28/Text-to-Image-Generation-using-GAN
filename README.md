@@ -36,7 +36,8 @@ The  data is prepared, pre-processed and stored into ./text-to-image directory a
 
 ## RESULT:
      AFTER 600 EPOCH, (We assume better results can be achieved by playing with the hyper-parameters)
-     ![](image.png)
+     
+![](image.png)
      
  
 
