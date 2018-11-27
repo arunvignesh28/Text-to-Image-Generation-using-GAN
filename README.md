@@ -10,9 +10,9 @@ The  data is prepared, pre-processed and stored into ./text-to-image directory a
 * TensorFlow 1.1
 * [Optional] Torch is needed, if using the pre-trained char-CNN-RNN text encoder.
 * The word to image caption and caption to the word mapping are done and stored into ./dictionary directory as:
-..1. id2Word.npy
-..2. word2ID.npy
-..3. vocab.npy
+..* id2Word.npy
+..* word2ID.npy
+..* vocab.npy
 
 ## EXECUTION:
 * Run ./Text-to-Image-GAN/train.py to train the DCGAN model on the Oxford 102-Flowers dataset using the pre-trained Word-ID embedding Numpy array model.
