@@ -37,8 +37,7 @@ The  data is prepared, pre-processed and stored into ./text-to-image directory a
 ## RESULT:
      AFTER 600 EPOCH, (We assume better results can be achieved by playing with the hyper-parameters)
      
-<div style="text-align:center"><img src ="![Epoch 600](https://github.com/arunvignesh28/FYP/blob/master/Text%20to%20Image%20Conversion%20using%20DC-GAN/Text-to-Image%20GAN/output/train_599.png)" /></div>
-     
+![Image - Epoch 600](https://github.com/arunvignesh28/FYP/blob/master/Text%20to%20Image%20Conversion%20using%20DC-GAN/Text-to-Image%20GAN/output/train_599.png)     
  
 
 
