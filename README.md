@@ -16,7 +16,8 @@ The  data is prepared, pre-processed and stored into ./text-to-image directory a
      
 ## ARCHITECTURE:
 
-![DCGAN - ARCHITECTURE](https://github.com/arunvignesh28/Text-to-Image-Generation-using-GAN/blob/master/Text%20to%20Image%20Conversion%20using%20DC-GAN/Text-to-Image%20GAN/architecture.jpeg)  
+![DCGAN - ARCHITECTURE](https://github.com/arunvignesh28/Text-to-Image-Generation-using-GAN/blob/master/Text%20to%20Image%20Conversion%20using%20DC-GAN/Text-to-Image%20GAN/Pictures%20Report/Gen.JPG)
+![DCGAN - ARCHITECTURE](https://github.com/arunvignesh28/Text-to-Image-Generation-using-GAN/blob/master/Text%20to%20Image%20Conversion%20using%20DC-GAN/Text-to-Image%20GAN/Pictures%20Report/Discriminator.JPG)
 
 ## EXECUTION:
 * Run ./Text-to-Image-GAN/train.py to train the DCGAN model on the Oxford 102-Flowers dataset using the pre-trained Word-ID embedding Numpy array model.
